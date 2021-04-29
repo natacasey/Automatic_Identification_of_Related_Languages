@@ -17,7 +17,7 @@ All of the documentation can be found in the docs folder.
 
 ## Final classification model
 
-Multinomial Naïve Bayes with the maximum features of 1,000,000 had the highest performance for long and short versions of formal and informal text samles.  
+Multinomial Naïve Bayes with the maximum features of 1,000,000 had the highest performance for long and short versions of formal and informal text samples.  
 
 
 ## Results of the final model
