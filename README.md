@@ -1,4 +1,4 @@
-![picture](https://github.com/natacasey/Automatic_Identification_of_Related_Languages-/blob/main/_assets/LANGUAGES.gif)
+![picture](https://github.com/natacasey/Automatic_Identification_of_Related_Languages-/blob/main/_assets/lang.png)
 
 ## Project description and Data
 
