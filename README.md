@@ -23,7 +23,7 @@ Multinomial Naïve Bayes with the maximum features of 1,000,000 had the highest 
 ## Results of the final model
 
 - 99.994% accuracy for the informal long strings of text data
-- 100% accuracy for an 80-observation sample of short (3-word) infromal text data
+- 100% accuracy for 80-observation sample of short (3-word) informal text data
 - 100% for an 80-observation sample of long formal text data
 - 98.75% for an 80-observation sample of short (3-word) formal text data
 
