@@ -2,7 +2,7 @@
 
 ## Project description and Data
 
-Relying on the data from the [the multilingual Amazon reviews corpus](https://registry.opendata.aws/amazon-reviews-ml/) this project focuses  on creating a language detector that is capable of recognizing the realted languages of English, German, Spanish and French. Informative linguistic features of each of the related languages mentioned above, different text data preprocessing techniques, and such supervised models as Multinomial Naïve Bayes, Logistic Regression, Random Forest, Suppport Vector Machines, and a bidirectional LSTM are used in this project to create a pipeline capable of successfully identifying these languages even on short strings of both informal and formal text. 
+Relying on the data from the [the multilingual Amazon reviews corpus](https://registry.opendata.aws/amazon-reviews-ml/) this project focuses  on creating a language detector that is capable of recognizing the realted languages of English, German, Spanish and French. Informative linguistic features of each of the related languages mentioned above, different text data preprocessing techniques, and such supervised models as Multinomial Naïve Bayes, Logistic Regression, Random Forest, Suppport Vector Machines, and a bidirectional LSTM are used in this project to create a pipeline capable of successfully identifying these languages even on short strings of both informal and formal text data from [European Parliament Proceedings Parallel Corpus](https://www.statmt.org/europarl/archives.html#v6).
 
 
 ## Documentation
